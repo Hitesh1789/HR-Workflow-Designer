@@ -59,8 +59,8 @@ Simulation Output:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Hitesh1789/hr-workflow-designer.git
-cd hr-workflow-designer
+git clone https://github.com/Hitesh1789/HR-Workflow-Designer.git
+cd HR-Workflow-Designer
 ```
 
 ---
